@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs , Backend**
 
-- 👨‍💻 All of my projects are available at [ritikkumarsingh.in](ritikkumarsingh.in)
+- 👨‍💻 All of my projects are available at [[ritikkumarsingh.in](https://ritik-kumar-singh.netlify.app/)]
 
 - 💬 Ask me about **HTML,CSS,Javascript,Firebase**
 

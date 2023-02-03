@@ -25,6 +25,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik73011&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik73011&hide_border=true&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ritik73011&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 
 [![Ritik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritik73011&theme=redical)](https://github.com/Ritik73011/github-readme-activity-graph)
